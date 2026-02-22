@@ -2,9 +2,9 @@
 
 English | [简体中文](README.zh-CN.md)
 
-![Version](//img.shields.io/badge/version-v4.2.2-blue)
-![Platform](//img.shields.io/badge/platform-linux-success)
-![License](//img.shields.io/badge/license-MIT-green)
+![Version](https://img.shields.io/badge/version-v4.2.2-blue)
+![Platform](https://img.shields.io/badge/platform-linux-success)
+![License](https://img.shields.io/badge/license-MIT-green)
 
 `ban_asn` is a Linux `nftables`-based blacklist tool for ASN and country CIDR blocking, with persistent rules, update workflows, and full install lifecycle management.
 
